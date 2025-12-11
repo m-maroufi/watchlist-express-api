@@ -41,7 +41,7 @@
 ## 📁 ساختار پروژه
 
 
-
+```bash
 ├── src/
 │   ├── config/          # تنظیمات (DB، JWT، env)
 │   ├── controllers/     # منطق روت‌ها
@@ -56,7 +56,7 @@
 │   └── schema.prisma
 ├── package.json
 └── README.md
-
+```
 
 ## ⚙️ راه‌اندازی سریع
 
